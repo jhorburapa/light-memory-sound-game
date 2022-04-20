@@ -36,13 +36,13 @@ The following **optional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-simple game play:
+simple game play: <b>
 ![](https://cdn.glitch.global/cc14a8f4-488b-4386-b9ca-da07c38281e7/ezgif.com-gif-maker-3.gif?v=1650486796637)
-start and stop button functionality:
+start and stop button functionality: <b>
 ![](https://cdn.glitch.global/cc14a8f4-488b-4386-b9ca-da07c38281e7/ezgif.com-gif-maker-2.gif?v=1650486697846)
-you win after repeating the pattern of 8:
+you win after repeating the pattern of 8: <b>
 ![](https://cdn.glitch.global/cc14a8f4-488b-4386-b9ca-da07c38281e7/ezgif.com-gif-maker-4.gif?v=1650486927896)
-three strikes until you're out:
+three strikes until you're out: <b>
 ![](https://cdn.glitch.global/cc14a8f4-488b-4386-b9ca-da07c38281e7/ezgif.com-gif-maker.gif?v=1650486590928)
 
 ## Reflection Questions
